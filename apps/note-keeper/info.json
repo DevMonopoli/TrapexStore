@@ -1,0 +1,9 @@
+{
+  "id": "note-keeper",
+  "name": "Note Keeper",
+  "description": "Минималистичное приложение для заметок. Поддерживает цветовые метки, полнотекстовый поиск, экспорт в TXT. Сохранение происходит автоматически.",
+  "version": "2.0.1",
+  "category": "productivity",
+  "iconUrl": "",
+  "downloadUrl": ""
+}

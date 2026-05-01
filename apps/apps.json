@@ -1,0 +1,23 @@
+{
+  "lastUpdated": "2025-05-01T12:00:00Z",
+  "apps": [
+    {
+      "id": "my-calculator",
+      "name": "My Calculator",
+      "description": "Удобный калькулятор с историей вычислений и тёмной темой.",
+      "version": "1.2.0",
+      "category": "tools",
+      "iconUrl": "",
+      "downloadUrl": ""
+    },
+    {
+      "id": "note-keeper",
+      "name": "Note Keeper",
+      "description": "Быстрые заметки с поиском и цветовыми метками.",
+      "version": "2.0.1",
+      "category": "productivity",
+      "iconUrl": "",
+      "downloadUrl": ""
+    }
+  ]
+}
